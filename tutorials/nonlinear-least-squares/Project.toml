@@ -1,0 +1,7 @@
+[deps]
+CaNNOLeS = "5a1c9e79-9c58-5ec0-afc4-3298fdea2875"
+JSOSolvers = "10dff2fc-5484-5881-a0e0-c90441020f8a"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+NLPModels = "a4795742-8479-5a88-8948-cc11e1c8c1a6"
+NLPModelsJuMP = "792afdf1-32c1-5681-94e0-d7bf7a5df49e"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
